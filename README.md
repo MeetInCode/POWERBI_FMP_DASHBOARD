@@ -198,6 +198,10 @@ RETURN ROUND(score * 100, 2)
 
 
 
+https://github.com/user-attachments/assets/ca926177-3992-41e9-9359-f65ccfb1a474
+
+
+
 ### Header Row
 - **Company Filter** — dropdown slicer filtering all visuals by `symbol`
 - **Market Index Ticker** — `^BSESN` live price card with change and % change
