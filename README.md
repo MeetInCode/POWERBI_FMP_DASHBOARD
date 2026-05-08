@@ -1,4 +1,4 @@
-# FMP Financial Dashboard — Project Explainer
+# FMP Financial Dashboard 
 
 ## Overview
 
@@ -115,6 +115,9 @@ The model uses a **star schema** with `companies_list` as the central dimension 
 
 ---
 
+<img width="1188" height="865" alt="image" src="https://github.com/user-attachments/assets/653a832c-7360-4d98-ab07-5b2f5a7e3180" />
+
+
 ## 3. DAX Measures
 
 All measures live in a single `Measures_All` table for clean organisation.
@@ -189,6 +192,11 @@ RETURN ROUND(score * 100, 2)
 ---
 
 ## 4. Visuals
+
+<img width="1378" height="901" alt="image" src="https://github.com/user-attachments/assets/5416c70e-9ecb-4271-8596-3b9aece79312" />
+<img width="1350" height="783" alt="image" src="https://github.com/user-attachments/assets/5328850a-8c45-46cc-8704-dbab23c7d607" />
+
+
 
 ### Header Row
 - **Company Filter** — dropdown slicer filtering all visuals by `symbol`
